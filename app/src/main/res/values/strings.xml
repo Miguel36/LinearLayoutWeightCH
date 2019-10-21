@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">LinearLayoutPropertyWeight</string>
+    <string name="text_color1">Amarillo</string>
+    <string name="text_color2">Azul</string>
+    <string name="text_color3">Rojo</string>
 </resources>
